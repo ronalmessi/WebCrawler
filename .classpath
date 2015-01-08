@@ -19,5 +19,7 @@
 	<classpathentry kind="lib" path="libs/tagsoup-1.2.1.jar"/>
 	<classpathentry kind="lib" path="libs/tika-core-1.0.jar"/>
 	<classpathentry kind="lib" path="libs/tika-parsers-1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="libs/javacsv.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
